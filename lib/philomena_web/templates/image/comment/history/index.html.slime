@@ -38,7 +38,7 @@ h1
             ' Reason:
             = version.edit_reason
           - else
-            ' No reason given
+            ' IDK
 
         .flex__right
           ' Edited
